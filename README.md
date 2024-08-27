@@ -1,4 +1,4 @@
-# core-dao-depin
+# Educhain decentralized infrastructure protocol
 <br/>
 Creating a decentralized computation protocol on Educhain. Currently connecting with https://akash.network/docs/
 <br/>
