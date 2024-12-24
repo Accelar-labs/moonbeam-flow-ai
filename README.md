@@ -1,4 +1,4 @@
-# Educhain decentralized infrastructure protocol
+# Moonbeam decentralized infrastructure protocol
 <br/>
 Creating a decentralized computation protocol focused on LLMs on Moonbeam. Currently connecting with https://akash.network/docs/
 <br/>
